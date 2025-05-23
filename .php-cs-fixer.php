@@ -3,9 +3,9 @@
 $header = <<<'EOF'
 This file is part of hyperf-ext/mail.
 
-@link     https://github.com/hyperf-ext/mail
+@link     https://github.com/vhunakoshi/hyperf-ext-mail
 @contact  eric@zhu.email
-@license  https://github.com/hyperf-ext/mail/blob/master/LICENSE
+@license  https://github.com/vhunakoshi/hyperf-ext-mail/blob/master/LICENSE
 EOF;
 
 return (new PhpCsFixer\Config())
