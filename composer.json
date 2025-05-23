@@ -1,5 +1,5 @@
 {
-    "name": "hyperf-ext/mail",
+    "name": "vhunakoshi/hyperf-ext-mail",
     "type": "library",
     "license": "MIT",
     "keywords": [
@@ -20,6 +20,10 @@
         {
             "name": "Volodymyr Mikhav",
             "email": "mihaw.wolodymyr@gmail.com"
+        },
+        {
+            "name": "Taufiq Vhunakoshi",
+            "email": "taufiqvhunakoshi@gmail.com"
         }
     ],
     "autoload": {
