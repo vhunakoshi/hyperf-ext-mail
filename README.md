@@ -27,13 +27,13 @@
 ### 安装
 
 ```shell script
-composer require hyperf-ext/mail
+composer require vhunakoshi/hyperf-ext-mail
 ```
 
 #### 发布配置
 
 ```shell script
-php bin/hyperf.php vendor:publish hyperf-ext/mail
+php bin/hyperf.php vendor:publish vhunakoshi/hyperf-ext-mail
 ```
 
 发布的配置文件中配置的每个邮件程序都可能有自己的「传输方式」和配置选项，这将允许你的应用程序使用不同的邮件服务来发送特定的邮件。例如，你的应用程序可能使用 Postmark 发送事务性邮件，而使用 AWS SES 发送批量邮件。
